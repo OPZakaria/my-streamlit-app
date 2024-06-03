@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jun  3 09:07:58 2024
+
+@author: Bruger
+"""
+
+streamlit
+pandas
+matplotlib
+openpyxl
